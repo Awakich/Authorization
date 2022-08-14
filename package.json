@@ -6,7 +6,7 @@
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production"
   },
-  "repository": "https://github.com/Awakich/Constructor.git",
+  "repository": "https://github.com/Awakich/Authorization.git",
   "author": "Artem",
   "license": "MIT",
   "devDependencies": {
